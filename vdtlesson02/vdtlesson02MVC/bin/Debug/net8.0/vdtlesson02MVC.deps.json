@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "vdtlesson02MVC/1.0.0": {
+        "runtime": {
+          "vdtlesson02MVC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vdtlesson02MVC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
