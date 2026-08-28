@@ -1,0 +1,44 @@
+﻿
+@{
+	ViewData["Title"] = "danh sach san pham";
+
+	var products = ViewData["products"] as List<vdtLesson03.Models.VdtProduct>;
+
+	var stt = 0;
+	@model List<VdtProduct>
+}
+
+<h1>@ViewData["Title"]</h1>
+<hr />
+<table class="table table-bordered">
+	<thead>
+		<tr>
+			<th>#</th>
+			<th>ID</th>
+			<th>Name</th>
+			<th>Quanlity</th>
+			<th>Price</th>
+			<th>Money</th>
+			<th>Action</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach(var item in products)
+		{
+			stt++;
+			<tr>
+				<td>1</td>
+				<td>@item.productID</td>
+				<td>@item.productName</td>
+				<td>@item.quanlity</td>
+				<td>@item.price</td>
+				<td>@(item.quanlity*item.price)</td>
+				<td>
+					<a href="" class="btn btn-primary">xem</a>
+					<a href="" class="btn btn-info">sua</a>
+					<a href="" class="btn btn-danger">xoa</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>

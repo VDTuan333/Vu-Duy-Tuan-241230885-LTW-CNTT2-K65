@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "thong tin san pham";
+}
+
+<h1>@ViewData["Title"]</h1>
+<hr />
+<div class="alert alert-danger">
+    <h2>lay tu viewbag</h2>
+    <p>ID: @ViewBag.productVD.productID</p>
+    <p>Name: @ViewBag.productVD.productName</p>
+    <p>quanlity: @ViewBag.productVD.quanlity</p>
+    <p>price: @ViewBag.productVD.price</p>
+
+</div>
+<hr />
+@{
+    var product = ViewData["productVD"] as vdtLesson03.Models.VdtProduct;
+}
+<div class="alert alert-info">
+    <h2>lay tu viewdata</h2>
+    <p>ID: @product.productID</p>
+    <p>Name: @product.productName</p>
+    <p>quanlity: @product.quanlity</p>
+    <p>price: @product.price</p>
+</div>

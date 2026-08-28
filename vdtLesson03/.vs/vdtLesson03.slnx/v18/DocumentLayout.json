@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UTC-LTW\\LTW-2026\\vdtLesson03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF2D863C-02A2-4A1F-8B4E-16238727CDC5}|vdtLesson03\\vdtLesson03.csproj|d:\\utc-ltw\\ltw-2026\\vdtlesson03\\vdtlesson03\\views\\vdtproduct\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF2D863C-02A2-4A1F-8B4E-16238727CDC5}|vdtLesson03\\vdtLesson03.csproj|solutionrelative:vdtlesson03\\views\\vdtproduct\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF2D863C-02A2-4A1F-8B4E-16238727CDC5}|vdtLesson03\\vdtLesson03.csproj|d:\\utc-ltw\\ltw-2026\\vdtlesson03\\vdtlesson03\\views\\vdtproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF2D863C-02A2-4A1F-8B4E-16238727CDC5}|vdtLesson03\\vdtLesson03.csproj|solutionrelative:vdtlesson03\\views\\vdtproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF2D863C-02A2-4A1F-8B4E-16238727CDC5}|vdtLesson03\\vdtLesson03.csproj|d:\\utc-ltw\\ltw-2026\\vdtlesson03\\vdtlesson03\\controllers\\vdtproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF2D863C-02A2-4A1F-8B4E-16238727CDC5}|vdtLesson03\\vdtLesson03.csproj|solutionrelative:vdtlesson03\\controllers\\vdtproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF2D863C-02A2-4A1F-8B4E-16238727CDC5}|vdtLesson03\\vdtLesson03.csproj|d:\\utc-ltw\\ltw-2026\\vdtlesson03\\vdtlesson03\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF2D863C-02A2-4A1F-8B4E-16238727CDC5}|vdtLesson03\\vdtLesson03.csproj|solutionrelative:vdtlesson03\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF2D863C-02A2-4A1F-8B4E-16238727CDC5}|vdtLesson03\\vdtLesson03.csproj|d:\\utc-ltw\\ltw-2026\\vdtlesson03\\vdtlesson03\\models\\vdtproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF2D863C-02A2-4A1F-8B4E-16238727CDC5}|vdtLesson03\\vdtLesson03.csproj|solutionrelative:vdtlesson03\\models\\vdtproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF2D863C-02A2-4A1F-8B4E-16238727CDC5}|vdtLesson03\\vdtLesson03.csproj|d:\\utc-ltw\\ltw-2026\\vdtlesson03\\vdtlesson03\\views\\vdtabout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF2D863C-02A2-4A1F-8B4E-16238727CDC5}|vdtLesson03\\vdtLesson03.csproj|solutionrelative:vdtlesson03\\views\\vdtabout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF2D863C-02A2-4A1F-8B4E-16238727CDC5}|vdtLesson03\\vdtLesson03.csproj|d:\\utc-ltw\\ltw-2026\\vdtlesson03\\vdtlesson03\\controllers\\vdtaboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF2D863C-02A2-4A1F-8B4E-16238727CDC5}|vdtLesson03\\vdtLesson03.csproj|solutionrelative:vdtlesson03\\controllers\\vdtaboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\UTC-LTW\\LTW-2026\\vdtLesson03\\vdtLesson03\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "vdtLesson03\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\UTC-LTW\\LTW-2026\\vdtLesson03\\vdtLesson03\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "vdtLesson03\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-28T18:18:11.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "D:\\UTC-LTW\\LTW-2026\\vdtLesson03\\vdtLesson03\\Views\\VdtProduct\\Products.cshtml",
+              "RelativeDocumentMoniker": "vdtLesson03\\Views\\VdtProduct\\Products.cshtml",
+              "ToolTip": "D:\\UTC-LTW\\LTW-2026\\vdtLesson03\\vdtLesson03\\Views\\VdtProduct\\Products.cshtml",
+              "RelativeToolTip": "vdtLesson03\\Views\\VdtProduct\\Products.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-28T18:05:11.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VdtProduct.cs",
+              "DocumentMoniker": "D:\\UTC-LTW\\LTW-2026\\vdtLesson03\\vdtLesson03\\Models\\VdtProduct.cs",
+              "RelativeDocumentMoniker": "vdtLesson03\\Models\\VdtProduct.cs",
+              "ToolTip": "D:\\UTC-LTW\\LTW-2026\\vdtLesson03\\vdtLesson03\\Models\\VdtProduct.cs",
+              "RelativeToolTip": "vdtLesson03\\Models\\VdtProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T17:38:07.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\UTC-LTW\\LTW-2026\\vdtLesson03\\vdtLesson03\\Views\\VdtProduct\\Index.cshtml",
+              "RelativeDocumentMoniker": "vdtLesson03\\Views\\VdtProduct\\Index.cshtml",
+              "ToolTip": "D:\\UTC-LTW\\LTW-2026\\vdtLesson03\\vdtLesson03\\Views\\VdtProduct\\Index.cshtml",
+              "RelativeToolTip": "vdtLesson03\\Views\\VdtProduct\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-28T17:36:30.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VdtProductController.cs",
+              "DocumentMoniker": "D:\\UTC-LTW\\LTW-2026\\vdtLesson03\\vdtLesson03\\Controllers\\VdtProductController.cs",
+              "RelativeDocumentMoniker": "vdtLesson03\\Controllers\\VdtProductController.cs",
+              "ToolTip": "D:\\UTC-LTW\\LTW-2026\\vdtLesson03\\vdtLesson03\\Controllers\\VdtProductController.cs",
+              "RelativeToolTip": "vdtLesson03\\Controllers\\VdtProductController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T17:35:59.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VdtAboutController.cs",
+              "DocumentMoniker": "D:\\UTC-LTW\\LTW-2026\\vdtLesson03\\vdtLesson03\\Controllers\\VdtAboutController.cs",
+              "RelativeDocumentMoniker": "vdtLesson03\\Controllers\\VdtAboutController.cs",
+              "ToolTip": "D:\\UTC-LTW\\LTW-2026\\vdtLesson03\\vdtLesson03\\Controllers\\VdtAboutController.cs",
+              "RelativeToolTip": "vdtLesson03\\Controllers\\VdtAboutController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T17:09:19.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\UTC-LTW\\LTW-2026\\vdtLesson03\\vdtLesson03\\Views\\VdtAbout\\Index.cshtml",
+              "RelativeDocumentMoniker": "vdtLesson03\\Views\\VdtAbout\\Index.cshtml",
+              "ToolTip": "D:\\UTC-LTW\\LTW-2026\\vdtLesson03\\vdtLesson03\\Views\\VdtAbout\\Index.cshtml",
+              "RelativeToolTip": "vdtLesson03\\Views\\VdtAbout\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-28T17:25:03.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
