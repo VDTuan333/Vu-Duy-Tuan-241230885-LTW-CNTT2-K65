@@ -1,0 +1,13 @@
+﻿@model IEnumerable<vdtlesson05ViewComponents.Models.VdtCategory>
+
+<ul class="bg-info my-3">
+	<li class="list-group-item active">Danh Muc</li>
+	@foreach (var category in Model)
+	{
+		<li class="list-group-item">
+			<a asp-controller="VdtProduct" asp-action="Index" asp-route-id="@category.CategoryId">
+				@category.CategoryName
+			</a>
+		</li>
+	}
+</ul>

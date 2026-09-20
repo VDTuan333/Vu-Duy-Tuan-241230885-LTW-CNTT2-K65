@@ -1,0 +1,71 @@
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\bin\Debug\net8.0\appsettings.Development.json
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\bin\Debug\net8.0\appsettings.json
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\bin\Debug\net8.0\vdtlesson05ViewComponents.staticwebassets.runtime.json
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\bin\Debug\net8.0\vdtlesson05ViewComponents.staticwebassets.endpoints.json
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\bin\Debug\net8.0\vdtlesson05ViewComponents.exe
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\bin\Debug\net8.0\vdtlesson05ViewComponents.deps.json
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\bin\Debug\net8.0\vdtlesson05ViewComponents.runtimeconfig.json
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\bin\Debug\net8.0\vdtlesson05ViewComponents.dll
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\bin\Debug\net8.0\vdtlesson05ViewComponents.pdb
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\vdtlesson05ViewComponents.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\vdtlesson05ViewComponents.AssemblyInfoInputs.cache
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\vdtlesson05ViewComponents.AssemblyInfo.cs
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\vdtlesson05ViewComponents.csproj.CoreCompileInputs.cache
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\vdtlesson05ViewComponents.MvcApplicationPartsAssemblyInfo.cache
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\vdtlesson05ViewComponents.RazorAssemblyInfo.cache
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\vdtlesson05ViewComponents.RazorAssemblyInfo.cs
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\scopedcss\bundle\vdtlesson05ViewComponents.styles.css
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\scopedcss\projectbundle\vdtlesson05ViewComponents.bundle.scp.css
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\staticwebassets.build.json
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\staticwebassets.development.json
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\swae.build.ex.cache
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\vdtlesson05ViewComponents.dll
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\refint\vdtlesson05ViewComponents.dll
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\vdtlesson05ViewComponents.pdb
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\vdtlesson05ViewComponents.genruntimeconfig.cache
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\ref\vdtlesson05ViewComponents.dll
+D:\UTC-LTTQ\thuc hanh\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\vdtlesso.D3C3BD90.Up2Date
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\bin\Debug\net8.0\appsettings.Development.json
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\bin\Debug\net8.0\appsettings.json
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\bin\Debug\net8.0\vdtlesson05ViewComponents.staticwebassets.endpoints.json
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\bin\Debug\net8.0\vdtlesson05ViewComponents.staticwebassets.runtime.json
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\bin\Debug\net8.0\vdtlesson05ViewComponents.exe
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\bin\Debug\net8.0\vdtlesson05ViewComponents.deps.json
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\bin\Debug\net8.0\vdtlesson05ViewComponents.runtimeconfig.json
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\bin\Debug\net8.0\vdtlesson05ViewComponents.dll
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\bin\Debug\net8.0\vdtlesson05ViewComponents.pdb
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\vdtlesson05ViewComponents.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\vdtlesson05ViewComponents.AssemblyInfoInputs.cache
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\vdtlesson05ViewComponents.AssemblyInfo.cs
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\vdtlesson05ViewComponents.csproj.CoreCompileInputs.cache
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\vdtlesson05ViewComponents.MvcApplicationPartsAssemblyInfo.cache
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\vdtlesson05ViewComponents.RazorAssemblyInfo.cache
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\vdtlesson05ViewComponents.RazorAssemblyInfo.cs
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\vdtlesson05ViewComponents.sourcelink.json
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\scopedcss\bundle\vdtlesson05ViewComponents.styles.css
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\scopedcss\projectbundle\vdtlesson05ViewComponents.bundle.scp.css
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\staticwebassets.build.json
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\staticwebassets.development.json
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\swae.build.ex.cache
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\vdtlesson05ViewComponents.dll
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\refint\vdtlesson05ViewComponents.dll
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\vdtlesson05ViewComponents.pdb
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\vdtlesson05ViewComponents.genruntimeconfig.cache
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\ref\vdtlesson05ViewComponents.dll
+D:\UTC-LTW\LTW-2026\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\vdtlesson05\vdtlesson05ViewComponents\vdtlesson05ViewComponents\obj\Debug\net8.0\vdtlesso.D3C3BD90.Up2Date
