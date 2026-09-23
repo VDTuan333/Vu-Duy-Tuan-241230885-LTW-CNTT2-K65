@@ -1,0 +1,57 @@
+﻿@model IEnumerable<vdtlesson06.Models.VdtMember>
+@{
+	ViewData["Title"] = " 0";
+}
+<h1>@ViewData["Title"]</h1>
+<p>
+	<a asp-action="VdtCreate">Create New</a>
+</p>
+
+<table class="table table-bordered">
+	<thead>
+		<tr>
+			<th>
+				@Html.DisplayNameFor(model => model.VdtMemberID)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.VdtMemberUserName)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.VdtMemberPassword)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.VdtMemberEmail)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.VdtMemberFullName)
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>
+					@Html.DisplayFor(modelItem => item.VdtMemberID)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.VdtMemberUserName)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.VdtMemberPassword)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.VdtMemberEmail)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.VdtMemberFullName)
+				</td>
+				<td>
+					@Html.ActionLink("sua","VdtEdit",new {id=item .VdtMemberID})|
+					@Html.ActionLink("Details", "Details", new {/*id=item .PrimaryKey */})|
+					@Html.ActionLink("Delete", "Delete", new {/*id=item .PrimaryKey */})
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>

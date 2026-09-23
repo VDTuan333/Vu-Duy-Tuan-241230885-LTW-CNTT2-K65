@@ -1,0 +1,12 @@
+﻿@model vdtlesson06.Models.VdtMember
+@{
+	ViewData["Title"] = "thong tin cac sinh vien";
+	var vdtMember = Model as vdtlesson06.Models.VdtMember;
+}
+
+<h1>@ViewData["Title"]</h1>
+<p>Member Id: @Model.VdtMemberID</p>
+<p>UserName: @Model.VdtMemberUserName</p>
+<p>Password: @Model.VdtMemberPassword</p>
+<p>Email: @Model.VdtMemberEmail</p>
+<p>Fullname: @Model.VdtMemberFullName</p>
