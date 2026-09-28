@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson07Annotation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06A9DB90-C4EC-4921-97FF-37A2B2D7B26A}|vdtlesson07Annotation\\vdtlesson07Annotation.csproj|d:\\utc-ltw\\ltw-2026\\vu-duy-tuan-241230885-ltw-cntt2-k65\\vdtlesson07annotation\\vdtlesson07annotation\\controllers\\vdtmemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A9DB90-C4EC-4921-97FF-37A2B2D7B26A}|vdtlesson07Annotation\\vdtlesson07Annotation.csproj|solutionrelative:vdtlesson07annotation\\controllers\\vdtmemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A9DB90-C4EC-4921-97FF-37A2B2D7B26A}|vdtlesson07Annotation\\vdtlesson07Annotation.csproj|d:\\utc-ltw\\ltw-2026\\vu-duy-tuan-241230885-ltw-cntt2-k65\\vdtlesson07annotation\\vdtlesson07annotation\\views\\vdtmembers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06A9DB90-C4EC-4921-97FF-37A2B2D7B26A}|vdtlesson07Annotation\\vdtlesson07Annotation.csproj|solutionrelative:vdtlesson07annotation\\views\\vdtmembers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A9DB90-C4EC-4921-97FF-37A2B2D7B26A}|vdtlesson07Annotation\\vdtlesson07Annotation.csproj|d:\\utc-ltw\\ltw-2026\\vu-duy-tuan-241230885-ltw-cntt2-k65\\vdtlesson07annotation\\vdtlesson07annotation\\models\\vdtmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A9DB90-C4EC-4921-97FF-37A2B2D7B26A}|vdtlesson07Annotation\\vdtlesson07Annotation.csproj|solutionrelative:vdtlesson07annotation\\models\\vdtmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A9DB90-C4EC-4921-97FF-37A2B2D7B26A}|vdtlesson07Annotation\\vdtlesson07Annotation.csproj|d:\\utc-ltw\\ltw-2026\\vu-duy-tuan-241230885-ltw-cntt2-k65\\vdtlesson07annotation\\vdtlesson07annotation\\views\\vdtmembers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06A9DB90-C4EC-4921-97FF-37A2B2D7B26A}|vdtlesson07Annotation\\vdtlesson07Annotation.csproj|solutionrelative:vdtlesson07annotation\\views\\vdtmembers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson07Annotation\\vdtlesson07Annotation\\Views\\VdtMembers\\Create.cshtml",
+              "RelativeDocumentMoniker": "vdtlesson07Annotation\\Views\\VdtMembers\\Create.cshtml",
+              "ToolTip": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson07Annotation\\vdtlesson07Annotation\\Views\\VdtMembers\\Create.cshtml",
+              "RelativeToolTip": "vdtlesson07Annotation\\Views\\VdtMembers\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T16:59:35.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson07Annotation\\vdtlesson07Annotation\\Views\\VdtMembers\\Index.cshtml",
+              "RelativeDocumentMoniker": "vdtlesson07Annotation\\Views\\VdtMembers\\Index.cshtml",
+              "ToolTip": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson07Annotation\\vdtlesson07Annotation\\Views\\VdtMembers\\Index.cshtml",
+              "RelativeToolTip": "vdtlesson07Annotation\\Views\\VdtMembers\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T16:57:44.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VdtMembersController.cs",
+              "DocumentMoniker": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson07Annotation\\vdtlesson07Annotation\\Controllers\\VdtMembersController.cs",
+              "RelativeDocumentMoniker": "vdtlesson07Annotation\\Controllers\\VdtMembersController.cs",
+              "ToolTip": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson07Annotation\\vdtlesson07Annotation\\Controllers\\VdtMembersController.cs*",
+              "RelativeToolTip": "vdtlesson07Annotation\\Controllers\\VdtMembersController.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T04:22:39.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VdtMember.cs",
+              "DocumentMoniker": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson07Annotation\\vdtlesson07Annotation\\Models\\VdtMember.cs",
+              "RelativeDocumentMoniker": "vdtlesson07Annotation\\Models\\VdtMember.cs",
+              "ToolTip": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson07Annotation\\vdtlesson07Annotation\\Models\\VdtMember.cs",
+              "RelativeToolTip": "vdtlesson07Annotation\\Models\\VdtMember.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T04:06:46.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

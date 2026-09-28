@@ -1,0 +1,54 @@
+@model vdtlesson07Annotation.Models.VdtMember
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>VdtMember</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="ID" class="control-label"></label>
+                <input asp-for="ID" class="form-control" />
+                <span asp-validation-for="ID" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="VdtUserName" class="control-label"></label>
+                <input asp-for="VdtUserName" class="form-control" />
+                <span asp-validation-for="VdtUserName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="VdtPassword" class="control-label"></label>
+                <input asp-for="VdtPassword" class="form-control" />
+                <span asp-validation-for="VdtPassword" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="VdtEmail" class="control-label"></label>
+                <input asp-for="VdtEmail" class="form-control" />
+                <span asp-validation-for="VdtEmail" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="VdtPhone" class="control-label"></label>
+                <input asp-for="VdtPhone" class="form-control" />
+                <span asp-validation-for="VdtPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
