@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson09Layout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE3D8A8-885A-E4D1-180C-634A363CA8D3}|vdtlesson09Layout\\vdtlesson09Layout.csproj|d:\\utc-ltw\\ltw-2026\\vu-duy-tuan-241230885-ltw-cntt2-k65\\vdtlesson09layout\\vdtlesson09layout\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE3D8A8-885A-E4D1-180C-634A363CA8D3}|vdtlesson09Layout\\vdtlesson09Layout.csproj|solutionrelative:vdtlesson09layout\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE3D8A8-885A-E4D1-180C-634A363CA8D3}|vdtlesson09Layout\\vdtlesson09Layout.csproj|d:\\utc-ltw\\ltw-2026\\vu-duy-tuan-241230885-ltw-cntt2-k65\\vdtlesson09layout\\vdtlesson09layout\\areas\\admins\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BE3D8A8-885A-E4D1-180C-634A363CA8D3}|vdtlesson09Layout\\vdtlesson09Layout.csproj|solutionrelative:vdtlesson09layout\\areas\\admins\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE3D8A8-885A-E4D1-180C-634A363CA8D3}|vdtlesson09Layout\\vdtlesson09Layout.csproj|d:\\utc-ltw\\ltw-2026\\vu-duy-tuan-241230885-ltw-cntt2-k65\\vdtlesson09layout\\vdtlesson09layout\\areas\\admins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BE3D8A8-885A-E4D1-180C-634A363CA8D3}|vdtlesson09Layout\\vdtlesson09Layout.csproj|solutionrelative:vdtlesson09layout\\areas\\admins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE3D8A8-885A-E4D1-180C-634A363CA8D3}|vdtlesson09Layout\\vdtlesson09Layout.csproj|d:\\utc-ltw\\ltw-2026\\vu-duy-tuan-241230885-ltw-cntt2-k65\\vdtlesson09layout\\vdtlesson09layout\\vdtlesson09layout.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7BE3D8A8-885A-E4D1-180C-634A363CA8D3}|vdtlesson09Layout\\vdtlesson09Layout.csproj|solutionrelative:vdtlesson09layout\\vdtlesson09layout.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE3D8A8-885A-E4D1-180C-634A363CA8D3}|vdtlesson09Layout\\vdtlesson09Layout.csproj|d:\\utc-ltw\\ltw-2026\\vu-duy-tuan-241230885-ltw-cntt2-k65\\vdtlesson09layout\\vdtlesson09layout\\wwwroot\\js\\layouthome.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7BE3D8A8-885A-E4D1-180C-634A363CA8D3}|vdtlesson09Layout\\vdtlesson09Layout.csproj|solutionrelative:vdtlesson09layout\\wwwroot\\js\\layouthome.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE3D8A8-885A-E4D1-180C-634A363CA8D3}|vdtlesson09Layout\\vdtlesson09Layout.csproj|d:\\utc-ltw\\ltw-2026\\vu-duy-tuan-241230885-ltw-cntt2-k65\\vdtlesson09layout\\vdtlesson09layout\\views\\shared\\_layouthome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BE3D8A8-885A-E4D1-180C-634A363CA8D3}|vdtlesson09Layout\\vdtlesson09Layout.csproj|solutionrelative:vdtlesson09layout\\views\\shared\\_layouthome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE3D8A8-885A-E4D1-180C-634A363CA8D3}|vdtlesson09Layout\\vdtlesson09Layout.csproj|d:\\utc-ltw\\ltw-2026\\vu-duy-tuan-241230885-ltw-cntt2-k65\\vdtlesson09layout\\vdtlesson09layout\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BE3D8A8-885A-E4D1-180C-634A363CA8D3}|vdtlesson09Layout\\vdtlesson09Layout.csproj|solutionrelative:vdtlesson09layout\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE3D8A8-885A-E4D1-180C-634A363CA8D3}|vdtlesson09Layout\\vdtlesson09Layout.csproj|d:\\utc-ltw\\ltw-2026\\vu-duy-tuan-241230885-ltw-cntt2-k65\\vdtlesson09layout\\vdtlesson09layout\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BE3D8A8-885A-E4D1-180C-634A363CA8D3}|vdtlesson09Layout\\vdtlesson09Layout.csproj|solutionrelative:vdtlesson09layout\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE3D8A8-885A-E4D1-180C-634A363CA8D3}|vdtlesson09Layout\\vdtlesson09Layout.csproj|d:\\utc-ltw\\ltw-2026\\vu-duy-tuan-241230885-ltw-cntt2-k65\\vdtlesson09layout\\vdtlesson09layout\\views\\products\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BE3D8A8-885A-E4D1-180C-634A363CA8D3}|vdtlesson09Layout\\vdtlesson09Layout.csproj|solutionrelative:vdtlesson09layout\\views\\products\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE3D8A8-885A-E4D1-180C-634A363CA8D3}|vdtlesson09Layout\\vdtlesson09Layout.csproj|d:\\utc-ltw\\ltw-2026\\vu-duy-tuan-241230885-ltw-cntt2-k65\\vdtlesson09layout\\vdtlesson09layout\\views\\products\\hots.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BE3D8A8-885A-E4D1-180C-634A363CA8D3}|vdtlesson09Layout\\vdtlesson09Layout.csproj|solutionrelative:vdtlesson09layout\\views\\products\\hots.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE3D8A8-885A-E4D1-180C-634A363CA8D3}|vdtlesson09Layout\\vdtlesson09Layout.csproj|d:\\utc-ltw\\ltw-2026\\vu-duy-tuan-241230885-ltw-cntt2-k65\\vdtlesson09layout\\vdtlesson09layout\\views\\products\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BE3D8A8-885A-E4D1-180C-634A363CA8D3}|vdtlesson09Layout\\vdtlesson09Layout.csproj|solutionrelative:vdtlesson09layout\\views\\products\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE3D8A8-885A-E4D1-180C-634A363CA8D3}|vdtlesson09Layout\\vdtlesson09Layout.csproj|d:\\utc-ltw\\ltw-2026\\vu-duy-tuan-241230885-ltw-cntt2-k65\\vdtlesson09layout\\vdtlesson09layout\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE3D8A8-885A-E4D1-180C-634A363CA8D3}|vdtlesson09Layout\\vdtlesson09Layout.csproj|solutionrelative:vdtlesson09layout\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE3D8A8-885A-E4D1-180C-634A363CA8D3}|vdtlesson09Layout\\vdtlesson09Layout.csproj|d:\\utc-ltw\\ltw-2026\\vu-duy-tuan-241230885-ltw-cntt2-k65\\vdtlesson09layout\\vdtlesson09layout\\wwwroot\\css\\layouthome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7BE3D8A8-885A-E4D1-180C-634A363CA8D3}|vdtlesson09Layout\\vdtlesson09Layout.csproj|solutionrelative:vdtlesson09layout\\wwwroot\\css\\layouthome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson09Layout\\vdtlesson09Layout\\Areas\\Admins\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "vdtlesson09Layout\\Areas\\Admins\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson09Layout\\vdtlesson09Layout\\Areas\\Admins\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "vdtlesson09Layout\\Areas\\Admins\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAAHkGAAAAAAAAAAAAAKQGAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T07:44:56.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson09Layout\\vdtlesson09Layout\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "vdtlesson09Layout\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson09Layout\\vdtlesson09Layout\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "vdtlesson09Layout\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T07:39:47.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson09Layout\\vdtlesson09Layout\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "vdtlesson09Layout\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson09Layout\\vdtlesson09Layout\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "vdtlesson09Layout\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T07:38:33.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vdtlesson09Layout.csproj",
+              "DocumentMoniker": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson09Layout\\vdtlesson09Layout\\vdtlesson09Layout.csproj",
+              "RelativeDocumentMoniker": "vdtlesson09Layout\\vdtlesson09Layout.csproj",
+              "ToolTip": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson09Layout\\vdtlesson09Layout\\vdtlesson09Layout.csproj",
+              "RelativeToolTip": "vdtlesson09Layout\\vdtlesson09Layout.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-17T07:36:32.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LayoutHome.js",
+              "DocumentMoniker": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson09Layout\\vdtlesson09Layout\\wwwroot\\js\\LayoutHome.js",
+              "RelativeDocumentMoniker": "vdtlesson09Layout\\wwwroot\\js\\LayoutHome.js",
+              "ToolTip": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson09Layout\\vdtlesson09Layout\\wwwroot\\js\\LayoutHome.js",
+              "RelativeToolTip": "vdtlesson09Layout\\wwwroot\\js\\LayoutHome.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-17T07:34:47.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson09Layout\\vdtlesson09Layout\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "vdtlesson09Layout\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson09Layout\\vdtlesson09Layout\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "vdtlesson09Layout\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-14T16:55:11.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Hots.cshtml",
+              "DocumentMoniker": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson09Layout\\vdtlesson09Layout\\Views\\Products\\Hots.cshtml",
+              "RelativeDocumentMoniker": "vdtlesson09Layout\\Views\\Products\\Hots.cshtml",
+              "ToolTip": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson09Layout\\vdtlesson09Layout\\Views\\Products\\Hots.cshtml",
+              "RelativeToolTip": "vdtlesson09Layout\\Views\\Products\\Hots.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-14T16:47:33.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson09Layout\\vdtlesson09Layout\\Views\\Products\\Search.cshtml",
+              "RelativeDocumentMoniker": "vdtlesson09Layout\\Views\\Products\\Search.cshtml",
+              "ToolTip": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson09Layout\\vdtlesson09Layout\\Views\\Products\\Search.cshtml",
+              "RelativeToolTip": "vdtlesson09Layout\\Views\\Products\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-14T16:47:12.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson09Layout\\vdtlesson09Layout\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "vdtlesson09Layout\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson09Layout\\vdtlesson09Layout\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "vdtlesson09Layout\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-14T16:46:56.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LayoutHome.cshtml",
+              "DocumentMoniker": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson09Layout\\vdtlesson09Layout\\Views\\Shared\\_LayoutHome.cshtml",
+              "RelativeDocumentMoniker": "vdtlesson09Layout\\Views\\Shared\\_LayoutHome.cshtml",
+              "ToolTip": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson09Layout\\vdtlesson09Layout\\Views\\Shared\\_LayoutHome.cshtml",
+              "RelativeToolTip": "vdtlesson09Layout\\Views\\Shared\\_LayoutHome.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-14T16:35:08.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson09Layout\\vdtlesson09Layout\\Views\\Products\\About.cshtml",
+              "RelativeDocumentMoniker": "vdtlesson09Layout\\Views\\Products\\About.cshtml",
+              "ToolTip": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson09Layout\\vdtlesson09Layout\\Views\\Products\\About.cshtml",
+              "RelativeToolTip": "vdtlesson09Layout\\Views\\Products\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-14T16:47:45.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LayoutHome.css",
+              "DocumentMoniker": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson09Layout\\vdtlesson09Layout\\wwwroot\\css\\LayoutHome.css",
+              "RelativeDocumentMoniker": "vdtlesson09Layout\\wwwroot\\css\\LayoutHome.css",
+              "ToolTip": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson09Layout\\vdtlesson09Layout\\wwwroot\\css\\LayoutHome.css",
+              "RelativeToolTip": "vdtlesson09Layout\\wwwroot\\css\\LayoutHome.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-14T16:54:56.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson09Layout\\vdtlesson09Layout\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "vdtlesson09Layout\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\vdtlesson09Layout\\vdtlesson09Layout\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "vdtlesson09Layout\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T16:41:43.951Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
