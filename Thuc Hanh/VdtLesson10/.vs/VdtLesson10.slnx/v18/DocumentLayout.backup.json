@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\Thuc Hanh\\VdtLesson10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95E55D29-CCFD-453A-5309-E83D8A3D26CC}|PatLesson10\\PatLesson10.csproj|d:\\utc-ltw\\ltw-2026\\vu-duy-tuan-241230885-ltw-cntt2-k65\\thuc hanh\\vdtlesson10\\patlesson10\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E55D29-CCFD-453A-5309-E83D8A3D26CC}|PatLesson10\\PatLesson10.csproj|solutionrelative:patlesson10\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E55D29-CCFD-453A-5309-E83D8A3D26CC}|PatLesson10\\PatLesson10.csproj|d:\\utc-ltw\\ltw-2026\\vu-duy-tuan-241230885-ltw-cntt2-k65\\thuc hanh\\vdtlesson10\\patlesson10\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E55D29-CCFD-453A-5309-E83D8A3D26CC}|PatLesson10\\PatLesson10.csproj|solutionrelative:patlesson10\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E55D29-CCFD-453A-5309-E83D8A3D26CC}|PatLesson10\\PatLesson10.csproj|d:\\utc-ltw\\ltw-2026\\vu-duy-tuan-241230885-ltw-cntt2-k65\\thuc hanh\\vdtlesson10\\patlesson10\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E55D29-CCFD-453A-5309-E83D8A3D26CC}|PatLesson10\\PatLesson10.csproj|solutionrelative:patlesson10\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E55D29-CCFD-453A-5309-E83D8A3D26CC}|PatLesson10\\PatLesson10.csproj|d:\\utc-ltw\\ltw-2026\\vu-duy-tuan-241230885-ltw-cntt2-k65\\thuc hanh\\vdtlesson10\\patlesson10\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E55D29-CCFD-453A-5309-E83D8A3D26CC}|PatLesson10\\PatLesson10.csproj|solutionrelative:patlesson10\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E55D29-CCFD-453A-5309-E83D8A3D26CC}|PatLesson10\\PatLesson10.csproj|d:\\utc-ltw\\ltw-2026\\vu-duy-tuan-241230885-ltw-cntt2-k65\\thuc hanh\\vdtlesson10\\patlesson10\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95E55D29-CCFD-453A-5309-E83D8A3D26CC}|PatLesson10\\PatLesson10.csproj|solutionrelative:patlesson10\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E55D29-CCFD-453A-5309-E83D8A3D26CC}|PatLesson10\\PatLesson10.csproj|d:\\utc-ltw\\ltw-2026\\vu-duy-tuan-241230885-ltw-cntt2-k65\\thuc hanh\\vdtlesson10\\patlesson10\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95E55D29-CCFD-453A-5309-E83D8A3D26CC}|PatLesson10\\PatLesson10.csproj|solutionrelative:patlesson10\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\Thuc Hanh\\VdtLesson10\\PatLesson10\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "PatLesson10\\Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\Thuc Hanh\\VdtLesson10\\PatLesson10\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "PatLesson10\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T01:19:10.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\Thuc Hanh\\VdtLesson10\\PatLesson10\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "PatLesson10\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\Thuc Hanh\\VdtLesson10\\PatLesson10\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "PatLesson10\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T01:12:19.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\Thuc Hanh\\VdtLesson10\\PatLesson10\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "PatLesson10\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\Thuc Hanh\\VdtLesson10\\PatLesson10\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "PatLesson10\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T00:59:37.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\Thuc Hanh\\VdtLesson10\\PatLesson10\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "PatLesson10\\Models\\Student.cs",
+              "ToolTip": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\Thuc Hanh\\VdtLesson10\\PatLesson10\\Models\\Student.cs",
+              "RelativeToolTip": "PatLesson10\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T00:55:05.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\Thuc Hanh\\VdtLesson10\\PatLesson10\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "PatLesson10\\Models\\Branch.cs",
+              "ToolTip": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\Thuc Hanh\\VdtLesson10\\PatLesson10\\Models\\Branch.cs",
+              "RelativeToolTip": "PatLesson10\\Models\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T00:54:25.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\Thuc Hanh\\VdtLesson10\\PatLesson10\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "PatLesson10\\Models\\Gender.cs",
+              "ToolTip": "D:\\UTC-LTW\\LTW-2026\\Vu-Duy-Tuan-241230885-LTW-CNTT2-K65\\Thuc Hanh\\VdtLesson10\\PatLesson10\\Models\\Gender.cs",
+              "RelativeToolTip": "PatLesson10\\Models\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T00:52:47.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
